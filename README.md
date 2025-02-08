@@ -14,6 +14,6 @@ Happy to answer any questions.
 
 Another project I am almost finished with is using two nano-ESP32s with a WT5500 keypad and the Blynk app to view the alarm system’s LCD display and control the system’s keypad.  This app will have its own virtual lcd display and keypad. I will post this shortly.
 
-Impassa installation and programming documents are available for download at www.alarm.com and elsewhere.
+Impassa installation and programming documents are available for download at alarmgrid.com and elsewhere.
 
 
