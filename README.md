@@ -10,7 +10,7 @@ The iPhone uses the Blynk app to send and receive messages to the Nano-ESP32.  T
 
 Unfortunately, Blynk is not supporting new makers on its app right now, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger, button and led widgets.
 
-Happy to answer any questions.
+See folders above for code, schematics and build information.  Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
 
 Another project just posted uses a WT5500 keypad and the Blynk app to view the alarm system’s LCD display and control the system’s keypad.  This app has its own virtual lcd display and keypad.
 
