@@ -12,6 +12,6 @@ Unfortunately, Blynk is not supporting new makers on its app right now, but I be
 
 See folders above for code, schematics and build information.  Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
 
-Another project just posted uses a WT5500 keypad and the Blynk app to view the alarm system’s LCD display and control the system’s keypad.  This app has its own virtual lcd display and keypad.
+Another project just finished and posted here uses a WT5500 keypad and the Blynk app to view the alarm system’s LCD display and control the system’s keypad.  This app has its own virtual lcd display and keypad.
 
 DSC Impassa operation, installation and programming documents are available for download at alarmgrid.com and elsewhere.
