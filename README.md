@@ -2,7 +2,7 @@ Remote Control iPhone App for DSC Impassa Home Alarm System using the Blynk app
 
 This Arduino Nano-ESP32 based application allows the user to control certain functions of an Impassa Home Alarm System remotely with the user’s iPhone.  Primary functions include, arming, disarming and alarm monitoring, and monitoring wired alarm zones connected through a RE508X translator.   The application can also be configured to monitor networked smoke detectors.
 
-Arm and disarm functions operate through a key fob board mounted to the next to the Nano-ESP32.
+Arm and disarm functions operate through a key fob board mounted next to the Nano-ESP32.
 
 The application uses the two Impassa program outputs for Away Armed State and Bell State.  The user will need the alarm installer code to program these.  The application also uses two led outputs to show ready to arm and armed/arming.  The two led outputs were connected to the alternate communication screw terminals as shown below.  The traces to these terminals were cut near the terminals with a drill bit to enable their redirection.  These could also be hooked up with wire connectors to avoid any trace cutting.
 
